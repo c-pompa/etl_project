@@ -1,5 +1,7 @@
 # etl_project
 ## Objective:
+
+How much campaign contributions did each candidate receive and what was the end result.
 Gather data sources, transform and load into a database. 
 
 
@@ -7,13 +9,11 @@ Gather data sources, transform and load into a database.
 * Pandas
 
 ## Data Sources:
-* https://api.open.fec.gov/developers/
-* https://statewidedatabase.org/d20/p20.html
-* http://cal-access.sos.ca.gov/Campaign/
+* https://api.open.fec.gov/developers/ (json)n
+* https://statewidedatabase.org/d10/p16.html (csv)
 
 ## Scrape:
 * https://statewidedatabase.org/d10/p16.html
 
 ## Database:
-* MongoDB
 * PostgreSQL
