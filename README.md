@@ -5,6 +5,8 @@
 ## Objective:
 Demonstrate gathering data from multiple sources, transform and load into a database. 
 
+Looking into spending contribution on post election results specifically on 2016
+
 ## Libraries:
 * BeautifulSoup
 * pymongo
