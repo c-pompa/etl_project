@@ -1,4 +1,7 @@
 # etl_project
+# Team Name: Inquisitive Otus
+
+
 ## Objective:
 Demonstrate gathering data from multiple sources, transform and load into a database. 
 
