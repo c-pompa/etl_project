@@ -1,6 +1,9 @@
 # etl_project
 ## Objective:
-Demonstrate gathering data from multiple sources, transform and load into a database. 
+
+How much campaign contributions did each candidate receive and what was the end result.
+Gather data sources, transform and load into a database. 
+
 
 ## Libraries:
 * BeautifulSoup
@@ -14,11 +17,11 @@ Demonstrate gathering data from multiple sources, transform and load into a data
 
 
 ## Data Sources:
-* https://api.open.fec.gov/developers/
-* https://statewidedatabase.org/d20/p20.html
+* https://api.open.fec.gov/developers/ (json)
+* https://statewidedatabase.org/d10/p16.html (csv)
 
 ## Scrape:
-* https://statewidedatabase.org/d10/p16.html
+* https://statewidedatabase.org/d10/p16.html 
 
 ## Database:
 * PostgreSQL
