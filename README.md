@@ -1,14 +1,13 @@
 # etl_project
 # Team Name: Inquisitive Otus
 
-
 ## Objective:
 
 How much campaign contributions did each candidate receive and what was the end result.
 Gather data sources, transform and load into a database. 
 
 
-Looking into spending contribution on post election results specifically on 2016
+Seeking information into spending contribution on post election results specifically on 2016
 
 ## Libraries:
 * BeautifulSoup
