@@ -21,11 +21,19 @@ Seeking information into spending contribution on post election results specific
 
 
 ## Data Sources:
+
 * https://api.open.fec.gov/developers/ (json)
+=======
+* https://api.open.fec.gov/developers/ (json)
+
 * https://statewidedatabase.org/d10/p16.html (csv)
 
 ## Scrape:
 * https://statewidedatabase.org/d10/p16.html 
 
 ## Database:
+
 * PostgreSQL
+=======
+* PostgreSQL
+
