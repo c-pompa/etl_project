@@ -1,7 +1,9 @@
 # etl_project
 # Team Name: Inquisitive Otus
  
-[Owl](./images/image.png)
+<img src="./images/image.png"
+     alt="owl"
+     style="float: left" />
 
 ## Objective:
 
