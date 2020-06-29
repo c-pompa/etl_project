@@ -4,7 +4,7 @@
 <img src="./images/image.png"
      alt="owl"
      style="float: left" 
-     width='50'/>
+     width='150'/>
 
 ## Objective:
 
