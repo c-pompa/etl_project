@@ -3,7 +3,8 @@
  
 <img src="./images/image.png"
      alt="owl"
-     style="float: left" />
+     style="float: left" 
+     width='50'/>
 
 ## Objective:
 
