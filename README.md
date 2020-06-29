@@ -1,5 +1,9 @@
 # etl_project
 # Team Name: Inquisitive Otus
+ 
+<img src="./images/image.png"
+     alt="owl"
+     style="float: left" width='150'/>
 
 ## Objective:
 
