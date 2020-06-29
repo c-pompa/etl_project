@@ -3,11 +3,8 @@
 
 ## Objective:
 
-How much campaign contributions did each candidate receive and what was the end result.
 Gather data sources, transform and load into a database. 
-
-
-Seeking information into spending contribution on post election results specifically on 2016
+Data involves how much campaign contributions each candidate received and success of campaign. Seeking information into spending contribution on post election results specifically on 2016
 
 ## Libraries:
 * BeautifulSoup
@@ -23,17 +20,11 @@ Seeking information into spending contribution on post election results specific
 ## Data Sources:
 
 * https://api.open.fec.gov/developers/ (json)
-=======
-* https://api.open.fec.gov/developers/ (json)
-
 * https://statewidedatabase.org/d10/p16.html (csv)
 
 ## Scrape:
-* https://statewidedatabase.org/d10/p16.html 
+* https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/home/?cid=nrcs143_013697 
 
 ## Database:
 
 * PostgreSQL
-=======
-* PostgreSQL
-
