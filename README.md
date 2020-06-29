@@ -5,10 +5,11 @@
      alt="owl"
      style="float: left" width='150'/>
 
+
 ## Objective:
 
 Gather data sources, transform and load into a database. 
-Data involves how much campaign contributions each candidate received and success of campaign. Seeking information into spending contribution on post election results specifically on 2016
+Data involves how much campaign contributions each candidate received and success of 2016 campaign
 
 ## Libraries:
 * BeautifulSoup
