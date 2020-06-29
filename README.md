@@ -1,5 +1,7 @@
 # etl_project
 # Team Name: Inquisitive Otus
+ 
+[Owl](./images/image.png)
 
 ## Objective:
 
