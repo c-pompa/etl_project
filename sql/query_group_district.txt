@@ -1,0 +1,10 @@
+SELECT * FROM election_table
+JOIN election_table ON election_table.district = statewide_db.cddist
+
+
+SELECT agg.cddist, agg.cngdem01 AS cngdem01, agg.cngdem02 AS cngdem02, agg.cngrep01 AS cngrep01, agg.cngrep02 AS cngrep02, et."Total_Receipts", et."Party", et."Total_Disbursements"
+FROM (SELECT sdb.cddist, SUM(sdb.cngdem01) AS cngdem01, SUM(sdb.cngdem02) AS cngdem02, SUM(sdb.cngrep01) AS cngrep01, SUM(sdb.cngrep02) AS cngrep02
+	FROM statewide_db AS sdb
+	GROUP BY sdb.cddist) AS agg
+RIGHT JOIN election_table AS et ON agg.cddist = et.district
+WHERE et.district = '13';
