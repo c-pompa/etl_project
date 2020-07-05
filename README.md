@@ -11,7 +11,7 @@
 Gather data sources, transform and load into a database. 
 Data involves how much campaign contributions each candidate received and success of 2016 campaign
 
-## Libraries:
+## Libraries / Requirements:
 * BeautifulSoup
 * pymongo
 * splinter import Browser
